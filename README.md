@@ -1,5 +1,5 @@
 # CustomerReviewAnalytics
-Objective:  Customer behavioural analysis and Review analysis on the Ecommerce website.
+Objective:  Customer behavioural analysis and Review analysis on the Women Clothing Ecommerce website.
 
 Task Performed:
 1) Performing EDA on the date to understand the patterns.
